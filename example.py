@@ -9,5 +9,5 @@ def substract(a, b):
     return a + b # <-- fix this in step 8. 
 
 # uncomment the following in test in step 5
-#def test_substract():
-#    assert substract(2, 3) == -1
+def test_substract():
+    assert substract(2, 3) == -1
